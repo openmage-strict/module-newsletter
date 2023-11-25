@@ -1,0 +1,9 @@
+src/app/code/core/Mage/Newsletter/                                     app/code/core/Mage/Newsletter/
+src/app/design/adminhtml/default/default/layout/newsletter.xml         app/design/adminhtml/default/default/layout/newsletter.xml
+src/app/design/adminhtml/default/default/template/newsletter/          app/design/adminhtml/default/default/template/newsletter/
+src/app/design/frontend/base/default/layout/newsletter.xml             app/design/frontend/base/default/layout/newsletter.xml
+src/app/design/frontend/base/default/template/newsletter/              app/design/frontend/base/default/template/newsletter/
+src/app/design/frontend/rwd/default/layout/newsletter.xml              app/design/frontend/rwd/default/layout/newsletter.xml
+src/app/design/frontend/rwd/default/template/newsletter/               app/design/frontend/rwd/default/template/newsletter/
+src/app/etc/modules/Mage_Newsletter.xml                                app/etc/modules/Mage_Newsletter.xml
+src/app/locale/en_US/Mage_Newsletter.csv                               app/locale/en_US/Mage_Newsletter.csv

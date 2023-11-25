@@ -1,0 +1,13 @@
+{
+    "name": "openmage-strict/module-newsletter",
+    "description": "Mage_Newsletter",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-core": "*",
+        "openmage-strict/module-customer": "*",
+        "openmage-strict/module-eav": "*",
+        "openmage-strict/module-widget": "*"
+    }
+}
