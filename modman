@@ -7,3 +7,6 @@ src/app/design/frontend/rwd/default/layout/newsletter.xml              app/desig
 src/app/design/frontend/rwd/default/template/newsletter/               app/design/frontend/rwd/default/template/newsletter/
 src/app/etc/modules/Mage_Newsletter.xml                                app/etc/modules/Mage_Newsletter.xml
 src/app/locale/en_US/Mage_Newsletter.csv                               app/locale/en_US/Mage_Newsletter.csv
+src/app/locale/en_US/template/email/newsletter_subscr_confirm.html     app/locale/en_US/template/email/newsletter_subscr_confirm.html
+src/app/locale/en_US/template/email/newsletter_subscr_success.html     app/locale/en_US/template/email/newsletter_subscr_success.html
+src/app/locale/en_US/template/email/newsletter_unsub_success.html      app/locale/en_US/template/email/newsletter_unsub_success.html
