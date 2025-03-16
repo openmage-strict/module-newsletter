@@ -8,6 +8,10 @@
         "openmage-strict/module-core": "^120.2",
         "openmage-strict/module-customer": "^120.2",
         "openmage-strict/module-eav": "^120.2",
-        "openmage-strict/module-widget": "^120.2"
+        "openmage-strict/module-widget": "^120.2",
+        "zf1s/zend-db": "*",
+        "zf1s/zend-filter": "*",
+        "zf1s/zend-mail": "*",
+        "zf1s/zend-validate": "*"
     }
 }
